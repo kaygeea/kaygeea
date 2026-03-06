@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **kickstarting open source contributions, as well as a freelance career**
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@adinlewakoyejo)
+- 📝 I regularly write articles on [Medium](https://medium.com/@kaygeea)
 
 - 💬 Ask me about **JavaScript, TypeScript, Angular, NodeJS, Clean Arhitecture**
 
