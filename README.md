@@ -17,6 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Beyond Variable Names: The Discipline of Self-Documenting Code](https://medium.com/@kaygeea/beyond-variable-names-the-discipline-of-self-documenting-code-e91521344fa6)
+- [UNDER THE LIBUV HOOD: HOW THE NODE.JS EVENT LOOP WORKS](https://medium.com/@kaygeea/under-the-libuv-hood-how-the-node-js-event-loop-works-158347ec2261)
+- [Process vs. Thread: Understanding Their Structural Differences](https://medium.com/@kaygeea/process-vs-thread-understanding-their-structural-differences-eb34a8175df0)
+- [From Browser to Server: Exploring the JavaScript Runtime](https://medium.com/@kaygeea/from-browser-to-server-exploring-the-javascript-runtime-636708f9ca92)
+- [Building a Traffic Source Attribution System for My Portfolio Website](https://medium.com/@kaygeea/building-a-traffic-source-attribution-system-for-my-portfolio-website-272dc22817e3)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
