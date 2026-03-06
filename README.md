@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@kaygeea)
 
-- 💬 Ask me about **JavaScript, TypeScript, Angular, NodeJS, Clean Arhitecture**
+- 💬 Ask me about **JavaScript, TypeScript, NodeJS, Clean Arhitecture, NestJS, Angular**
 
 - 📄 Know about my experiences through my [resume](https://docs.google.com/document/d/13z8YOW_2sz25aMVnQkiuoFpVw5DYg2rVFGOpCtYg4_0/edit?usp=sharing)
 
