@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Koyejo</h1>
 <h3 align="center">An ALX-guided, self taught Software Engineer with a background in law</h3>
 
-- 🔭 I’m currently working on **NestJS open-source contribution**
+- 🔭 I’m currently working on **TradesMatcher and MarketWatch**
 
-- 🌱 I’m currently learning **NestJS, Clean Architecture**
+- 🌱 I’m currently learning **NestJS & Replit agent**
 
 - 🤝 I’m looking for help with **kickstarting open source contributions, as well as a freelance career**
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences through my [resume](https://docs.google.com/document/d/13z8YOW_2sz25aMVnQkiuoFpVw5DYg2rVFGOpCtYg4_0/edit?usp=sharing)
 
-- ⚡ Fun fact **I love documentaries and have probably watched over 20 season of Air Crash Investigation**
+- ⚡ Fun fact **I love documentaries and have probably watched almost all episodes of Air Crash Investigation**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
